@@ -1,0 +1,15 @@
+{Ann},{isFriendOf},{Bob}
+{Ann},{isFriendOf},{Mike}
+{Bob},{isFriendOf},{Will}
+{Bob},{isFriendOf},{Sam}
+{Mike},{isFriendOf},{Sam}
+{Will},{worksAt},{BurgerKing}
+{Will},{staysIn},{NewYork}
+{Will},{studiedAt},{Columbia}
+{Sam},{staysIn},{Chicago}
+{Sam},{studiedAt},{Harvard}
+{Sam},{worksAt},{CVS}
+{Mike},{plays},{Baseball}
+{Bob},{plays},{Soccer}
+{Sam},{plays},{Baseball}
+{Will},{plays},{Soccer}
