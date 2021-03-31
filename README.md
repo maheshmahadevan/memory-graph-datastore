@@ -81,8 +81,8 @@ Chicago
 ## Implementation
 
 1. Contains two maven modules 
-   a. core-datastore - this contains the data structure and required components for data store application
-   b. datastore-shell - this is the spring shell module which allows you to execute queries on top of data store
+   * core-datastore - this contains the data structure and required components for data store application
+   * datastore-shell - this is the spring shell module which allows you to execute queries on top of data store
 2. Build - mvn clean install  - on both modules in the same order as above 
 3. Run - java -jar target/datastore-shell-0.0.1-SNAPSHOT.jar  - on the datastore-shell folder to start the shell
 4. Logs - datastore.log in the current directory datastore-shell
